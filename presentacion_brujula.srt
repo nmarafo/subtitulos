@@ -26,3 +26,112 @@ Recursos educativos digitales para el alumnado.
 00:00:35,700 --> 00:00:39,540
 Materiales para utilizar en entornos virtuales de aprendizaje.
 
+8
+00:00:39,540 --> 00:00:49,260
+El punto de partida para la elaboración de las programaciones didácticas
+de cada una de las áreas y materias es el mapa de distribución de criterios de evaluación
+
+9
+00:00:49,300 --> 00:00:56,060
+que recoge la secuencia de criterios que se trabajan en cada situación de aprendizaje, temporalizados para un curso escolar.
+
+10
+00:00:56,060 --> 00:01:02,500
+Todas las programaciones didácticas de cada nivel educativo están conectadas entre sí. 
+
+11
+00:01:02,620 --> 00:01:10,500
+Así, en Primaria, las situaciones de aprendizaje de cada nivel se han diseñado a partir de un criterio de evaluación inspirador
+
+12
+00:01:10,500 --> 00:01:12,460
+de Ciencias Sociales
+
+13
+00:01:12,460 --> 00:01:14,780
+o Ciencias de la Naturaleza
+
+14
+00:01:14,780 --> 00:01:19,620
+y se han interconectado los aprendizajes de estos con el del resto de las áreas del nivel.
+
+15
+00:01:19,620 --> 00:01:27,020
+En el caso de Secundaria, se han buscado vinculaciones entre los aprendizajes de las diferentes materias de cada nivel,
+
+16
+00:01:27,020 --> 00:01:31,060
+además de haberse diseñado una situación de aprendizaje por trimestre, 
+
+17
+00:01:31,060 --> 00:01:34,900
+en la que todas las materias abordan un mismo centro de interés.
+
+18
+00:01:34,900 --> 00:01:43,020
+Cada programación didáctica es desarrollada en  Situaciones de Aprendizaje, que tienen carácter competencial
+
+19
+00:01:43,020 --> 00:01:48,740
+con tareas y actividades útiles y funcionales para el alumnado
+
+20
+00:01:48,740 --> 00:01:53,340
+contextualizadas en Canarias,
+
+21
+00:01:53,340 --> 00:01:57,860
+Situaciones de aprendizaje que permiten una evaluación competencial
+
+22
+00:01:57,860 --> 00:02:02,660
+con productos que evalúan los aprendizajes descritos en los Criterios de Evaluación
+
+23
+00:02:02,660 --> 00:02:11,740
+Las situaciones de aprendizaje cuentan con los recursos educativos digitales necesarios para su implementación en el aula.
+
+24
+00:02:11,740 --> 00:02:19,580
+Todos estos materiales se encuentran disponibles en versión analógica en la plataforma de Brújula20
+
+25
+00:02:19,580 --> 00:02:26,380
+Para acceder, el profesorado deberá validarse con sus credenciales corporativas Medusa
+
+26
+00:02:26,380 --> 00:02:29,340
+y podrá descargar aquello que le interese
+
+27
+00:02:29,340 --> 00:02:36,300
+Las situaciones de aprendizaje se digitalizan para su uso en entornos virtuales de aprendizaje
+
+28
+00:02:36,300 --> 00:02:44,940
+Así, en Aula Digital Canaria se pueden encontrar ya digitalizadas en un entorno interactivo, la mayor parte de ellas
+
+29
+00:02:44,940 --> 00:02:50,380
+Además el Aula Digital Canaria es  integrable en EVAGD
+
+30
+00:02:50,380 --> 00:02:58,340
+Para apoyar en el uso de todos estos materiales, el profesorado de Canarias cuenta con las asesorías de referencia en los CEP
+
+31
+00:02:58,340 --> 00:03:06,220
+Con el curso autodirigido de iniciación “Programa Brújula20: una educación para el alumnado del siglo XXI”, 
+
+32
+00:03:06,220 --> 00:03:10,900
+que podrá encontrar en  la plataforma de formación del servicio de perfeccionamiento
+
+33
+00:03:10,900 --> 00:03:16,100
+y con la propia web del programa B20
+
+34
+00:03:16,100 --> 00:03:26,100
+Brújula20 es un programa de la Consejería de Educación, Universidades, Cultura y Deportes, del Gobierno de Canarias
+
